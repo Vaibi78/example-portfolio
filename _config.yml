@@ -1,5 +1,12 @@
-title: Shaw Talebi
-logo: /assets/img/headshot_circle.png
-#description: text below image
+title: Vaibhav Venkatesh
+logo: /assets/me.jpg
+description: >
+  Aspiring Data Engineer & Software Developer.  
+  Passionate about building scalable systems, solving real-world problems using data, cloud, and AI.
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# (Optional) Social Links
+github_username: vaibhav-venkatesh
+linkedin_username: vaibhav-venkatesh
+email: vaibhav@ku.edu
